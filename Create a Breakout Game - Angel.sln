@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{396CF5E5-ABB4-6BF7-8577-8786F8A5A06E}") = "Create a Breakout Game - Angel", "Assembly-CSharp.csproj", "{8D7D04C9-AAF7-4549-0170-96C09719F286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D7D04C9-AAF7-4549-0170-96C09719F286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7D04C9-AAF7-4549-0170-96C09719F286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7D04C9-AAF7-4549-0170-96C09719F286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7D04C9-AAF7-4549-0170-96C09719F286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
