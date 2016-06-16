@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{396CF5E5-ABB4-6BF7-8577-8786F8A5A06E}") = "Create a Breakout Game - Angel", "Assembly-CSharp.csproj", "{8D7D04C9-AAF7-4549-0170-96C09719F286}"
+Project("{396CF5E5-ABB4-6BF7-8577-8786F8A5A06E}") = "Create a Breakout Game - Ashley", "Assembly-CSharp.csproj", "{8D7D04C9-AAF7-4549-0170-96C09719F286}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
