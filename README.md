@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UnityBreakoutGame
 <b>Norwalk High School</b> :school: - <b>Project Lead The Way (PLTW) Computer Science :computer:</b><br>
 <b>Class:</b> Computer Science Applications (CSA) - 3rd Year (Juniors)<br>
@@ -13,3 +14,6 @@
 
 ![Alt text](https://github.com/AngelC21/UnityBreakoutGame/blob/master/Capture3.JPG "Game Over")
 <br><br>
+=======
+# Breakout
+>>>>>>> 1ccd305885eaa38bdca380899b40d4ab4fd1385a
